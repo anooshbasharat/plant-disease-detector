@@ -1,0 +1,7 @@
+# Keep the dataset and notebook out of the Docker image; the app only needs model.joblib
+dataset/
+main.ipynb
+.venv/
+.git/
+.ipynb_checkpoints/
+.claude/
