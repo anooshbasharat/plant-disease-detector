@@ -1,0 +1,6 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+# Don't try to open a browser or ask questions when running on a server
+headless = true
